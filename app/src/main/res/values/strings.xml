@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="username">Username</string>
+    <string name="main_appbar_title">Github User\'s Search</string>
+    <string name="no_result">No result</string>
+    <string name="general_keyword">Try input more spesific username</string>
+    <string name="whoops">Whoops!</string>
+    <string name="retry">Retry</string>
+    <string name="error_search">Please type username in search first !</string>
+    <string name="name_placeholder">Name</string>
+    <string name="location_placeholder">location</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_followers">No Followers</string>
+    <string name="no_followers_desc">This user doesn\'t have any followers !</string>
+    <string name="no_following">No Following</string>
+    <string name="no_following_desc">This user dont follow any user !</string>
+    <string name="setting">Setting</string>
+    <string name="turn_on_off_alarm_at_09_00_am">Turn On/Off Alarm at 09.00 AM</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+</resources>
